@@ -17,7 +17,7 @@ function preload(){
   gaoi = loadImage("gameOver.png")
   jump = loadSound('jump.mp3')
   die = loadSound('die.mp3')
-  checkpoint = loadSound('checkpoint.mp3')
+  check = loadSound('checkPoint.mp3')
 }
 
 function setup() {
